@@ -1,0 +1,17 @@
+subject	subject
+object	object
+from	from
+into	into
+next	next
+contain	contain
+start	start
+end	end
+on	on
+with	with
+in	in
+beside	beside
+under	under
+to	to
+typeof	typeof
+hypernym	hypernym
+ingredient	ingredient

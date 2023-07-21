@@ -1,0 +1,17 @@
+subject
+object
+from
+into
+next
+contain
+start
+end
+on
+with
+in
+beside
+under
+to
+typeof
+hypernym
+ingredient
