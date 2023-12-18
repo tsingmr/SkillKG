@@ -1,4 +1,4 @@
-# Hierarchical Representation in Robotic Manipulation: A Knowledge-based Framework
+# Hierarchical Understanding in Robotic Manipulation: A Knowledge-based Framework
 
 ![overview](overview.png)
 
